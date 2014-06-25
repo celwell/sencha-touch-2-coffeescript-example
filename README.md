@@ -1,6 +1,6 @@
 Sencha Touch 2 - CoffeeScript Example
 ===================================
-This is the example the comes with Sencha Touch 2, but in CoffeeScript.
+This is the example the comes with Sencha Touch 2, but in CoffeeScript. It demonstrates how CoffeeScript is an elegant fit for Sencha Touch development.
 
 You probably want to run something like this when your developing:
   
